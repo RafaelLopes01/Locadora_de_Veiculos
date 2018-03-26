@@ -1,2 +1,2 @@
 # Locadora_de_Veiculos
-Trabalho Acadêmico, desenvolvido para uma locadora de Veículos na Linguagem de Programação C.
+Trabalho Acadêmico, desenvolvido para uma Locadora de Veículos, usando a Linguagem de Programação C.
