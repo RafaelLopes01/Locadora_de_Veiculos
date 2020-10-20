@@ -1,2 +1,3 @@
-# Locadora_de_Veiculos
-Trabalho Acadêmico, desenvolvido para uma Locadora de Veículos, usando a Linguagem de Programação C.
+# PIM Projeto integrado Multidisciplinar 
+## Locadora de Veiculos
+Trabalho Acadêmico, desenvolvido em grupo para uma Locadora de Veículos, usando a Linguagem de Programação C.
