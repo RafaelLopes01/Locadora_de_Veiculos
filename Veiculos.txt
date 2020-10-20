@@ -1,0 +1,3 @@
+GM|Camaro SS|CAM0000|Flex|Luxo|Livre
+Ford|Fusion|FUS0000|Flex|Luxo|Livre
+Hyundai|HB20 S|HYU0000|Flex|Intermediaria|Livre
